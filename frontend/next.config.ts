@@ -10,6 +10,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "is1-ssl.mzstatic.com", // iTunes API 이미지 호스트
       },
+      {
+        protocol: "https",
+        hostname: "i.scdn.co", // Spotify 이미지 호스트
+      },
     ],
   },
 };
