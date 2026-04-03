@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "음악 검색",
-  description: "곡명이나 아티스트를 검색하고 가사를 확인해보세요",
+  title: "Melodify - 음악 검색 & 가사",
+  description: "수백만 곡의 음악과 가사를 검색하고, 좋아하는 음악의 의미를 더 깊이 이해해보세요",
   icons: { icon: "/favicon.svg" },
 };
 
